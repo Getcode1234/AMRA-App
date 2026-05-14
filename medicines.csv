@@ -271,9 +271,134 @@ Ampiclox 500mg,Ampicillin + Cloxacillin,435,Pen-B (Sami),250
 Linospan 600mg,Linezolid,1200,Lino (Getz),700
 Macrodantin,Nitrofurantoin,450,Uritin (Local),220
 Bactroban,Mupirocin,380,Mupic (Sami),190
-Brand Name,Generic,Price (PKR),Alternative Brand,Alt Price (PKR)
 Ponstan 250mg,Mefenamic Acid,350 (Pack),Pansal (Local),180
 Arinac Forte,Ibuprofen + Pseudo,400,Syp. Febrol,220
 Zyrtec 10mg,Cetirizine,450,Cetzine (Sami),250
 Surbex-Z,Multivitamins,850,Zevit (Generic),400
-
+Morphine Inj,Morphine,150,Hydromorphone,280
+Propofol Inj,Propofol,612,Thiopental,450
+Onset (Tab),Ondansetron,495,Endtron (Granisetron),450
+Aerius (Tab),Loratadine,422,Arix (Cetirizine),230
+Deltacortril,Prednisolone,180,Prednisone,140
+Akineton,Biperiden,210,Trihexyphenidyl,180
+Imigran,Sumatriptan,950,Eletriptan,780
+Zovirax,Aciclovir,1274,Valaciclovir,980
+Ivermite,Ivermectin,451,Mectimite (Moxidectin),414
+Imodium,Loperamide,75,Cecado (Racecadotril),40
+Valium,Diazepam,25,Ativan (Lorazepam),120
+BraImigran,Sumatriptan ,950,Relpax (Eletriptan) ,780
+Diprivan,Propofol ,612,Pentothal (Thiopental) ,450
+Morphine Inj,Morphine ,150,Dilaudid (Hydromorphone) ,280
+Morphine Inj,Morphine ,150,OxyContin (Oxycodone) ,550
+Zofran,Ondansetron ,495,Kytril (Granisetron) ,450
+Zofran,Ondansetron ,495,Anzemet (Dolasetron) ,420
+Akineton,Biperiden ,210,Artane (Trihexyphenidyl) ,180
+Zovirax,Aciclovir,1274,Valtrex (Valaciclovir),980
+Diprivan,Propofol,612,Pentothal (Thiopental),450
+Ketalar,Ketamine,350,Ketamine (Local),220
+Fluothane,Halothane,2500,Halothane (Generic),1800
+Marcaine,Bupivacaine,180,Bupicaine (Local),120
+Morphine Inj,Morphine,150,Dilaudid (Hydromorphone),280
+Fentanyl Inj,Fentanyl,320,Sufenta (Sufentanil),450
+Zofran,Ondansetron,495,Onset (Getz),180
+Tryptanol,Amitriptyline,110,Amival (Local),60
+Imigran,Sumatriptan,950,Relpax (Eletriptan),780
+Zarontin,Ethosuximide,1200,Ethosuximide (Local),850
+Amphotericin B Inj,Amphotericin B,4500,Ambisome (Generic),3800
+Grisovin,Griseofulvin,380,Fulcin (Local),210
+Retrovir,Zidovudine,2200,Zidovir (Local),1500
+Narcan,Naloxone,1500,Naloxone Inj (Local),900
+Magnesium Inj,Magnesium sulfate,250,Epsom Inj (Local),150
+Syntocinon,Oxytocin,180,Piton-S (Local),75
+Aldactone,Spironolactone,320,Spiromide (Local),190
+Macrodantin,Nitrofurantoin,350,Nidantin (Local),180
+Ziagen,Abacavir,3200,Abamune (Generic),2100
+Epivir,Lamivudine,1850,Lamivir (Local),950
+Tamiflu,Oseltamivir,2400,Enfluvir (Local),1100
+Decadron,Dexamethasone,120,Dexameth (Local),45
+Solu-Cortef,Hydrocortisone,350,Hydrocort Inj (Local),180
+Ancobon,Flucytosine,5500,Flucytosine (Generic),4200
+PTU Tab,Propylthiouracil,850,Propyl (Local),450
+Romazicon,Flumazenil,1800,Flumazenil Inj (Local),1100
+Morphine Inj,Morphine (10mg/ml),150,Dilaudid (2mg),280
+Diprivan,Propofol (10mg/ml),612,Propofol (Local),450
+Ketalar,Ketamine (50mg/ml),350,Ketamine (Generic),220
+Fluothane,Halothane (250ml liquid),2500,Halothane (Generic),1800
+Pentothal,Thiopental (500mg Inj),450,Thiopental (Local),380
+Narcan,Naloxone (0.4mg/ml),1500,Naloxone (Local),900
+Anexate,Flumazenil (0.1mg/ml),1800,Flumazenil (Generic),1150
+Atropine Inj,Atropine (0.6mg/ml),45,Atropine (Generic),20
+Zarontin,Ethosuximide (250mg),1200,Ethosuximide (Local),850
+Luminal,Phenobarbital (30mg),80,Gardenal (30mg),50
+Ziagen,Abacavir (300mg),3200,Abamune (300mg),2100
+Epivir,Lamivudine (150mg),1850,Lamivir (150mg),950
+Retrovir,Zidovudine (300mg),2200,Zidovir (300mg),1450
+Ambisome,Amphotericin B (50mg),4500,Amphotericin (Local),3800
+Ancobon,Flucytosine (500mg),5500,Flucytosine (Generic),4200
+Haldol,Haloperidol (5mg),150,Haloperidol (Local),80
+Quilonum,Lithium carbonate (300mg),450,Lithium (Generic),310
+Solu-Cortef,Hydrocortisone (100mg),350,Hydrocort (Local),180
+PTU Tab,Propylthiouracil (50mg),850,Propyl (Local),450
+Imigran,Sumatriptan (50mg),950,Relpax (40mg),780
+Endoxan,Cyclophosphamide (500mg),1250,Cyclophosphamide (Gen),850
+Adriblastina,Doxorubicin (50mg),3500,Doxorubicin (Local),2400
+5-FU Inj,Fluorouracil (500mg),450,Fluorouracil (Generic),280
+Methotrexate,Methotrexate (2.5mg),250,Methotrexate (Local),120
+Dantrium,Dantrolene (20mg Inj),15000,Dantrolene (Local),9500
+Zovirax,Aciclovir (200mg),1274,Acyclovir (Local),650
+Dopamine Inj,Dopamine (40mg/ml),450,Dopamine (Local),280
+Adrenaline,Epinephrine (1mg/ml),120,Adrenaline (Generic),40
+Heparin Inj,Heparin (5000 IU),1200,Heparin (Generic),800
+Esidrex,Hydrochlorothiazide (25mg),180,HCTZ (Local),90
+Xylocaine,Lidocaine (2% Inj),150,Lidocaine (Local),70
+Ativan,Lorazepam (2mg),120,Lorazepam (Local),65
+Nitroglycerin,Glyceryl Trinitrate (0.5mg),350,GTN (Local),180
+Dantrium,Dantrolene (20mg Inj),15000,Dantrolene (Local),9500
+Morphine Inj,Morphine (10mg/ml),150,Dilaudid (2mg),280
+Diprivan,Propofol (10mg/ml),612,Propofol (Local),450
+Ketalar,Ketamine (50mg/ml),350,Ketamine (Generic),220
+Fluothane,Halothane (250ml),2500,Halothane (Generic),1800
+Pentothal,Thiopental (500mg Inj),450,Thiopental (Local),380
+Narcan,Naloxone (0.4mg/ml),1500,Naloxone (Local),900
+Anexate,Flumazenil (0.1mg/ml),1800,Flumazenil (Generic),1150
+Atropine Inj,Atropine (0.6mg/ml),50,Atropine (Generic),25
+Dopamine Inj,Dopamine (40mg/ml),450,Dopamine (Local),280
+Adrenaline,Epinephrine (1mg/ml),120,Adrenaline (Generic),45
+Heparin Inj,Heparin (5000 IU),1200,Heparin (Generic),850
+Marcaine,Bupivacaine (0.5%),180,Bupicaine (Local),110
+Zarontin,Ethosuximide (250mg),1200,Ethosuximide (Local),850
+Luminal,Phenobarbital (30mg),90,Gardenal (30mg),55
+Ziagen,Abacavir (300mg),3200,Abamune (300mg),2100
+Epivir,Lamivudine (150mg),1850,Lamivir (150mg),950
+Retrovir,Zidovudine (300mg),2200,Zidovir (300mg),1450
+Ambisome,Amphotericin B (50mg),4500,Amphotericin (Local),3200
+Ancobon,Flucytosine (500mg),5500,Flucytosine (Generic),4200
+Haldol,Haloperidol (5mg),150,Haloperidol (Local),85
+Quilonum,Lithium carbonate (300mg),480,Lithium (Generic),320
+Solu-Cortef,Hydrocortisone (100mg),350,Hydrocort (Local),180
+PTU Tab,Propylthiouracil (50mg),850,Propyl (Local),450
+Imigran,Sumatriptan (50mg),950,Relpax (40mg),780
+Endoxan,Cyclophosphamide (500mg),1250,Cyclophosphamide (Gen),850
+Adriblastina,Doxorubicin (50mg),3500,Doxorubicin (Local),2400
+5-FU Inj,Fluorouracil (500mg),450,Fluorouracil (Generic),280
+Apresoline,Hydralazine (20mg/ml),350,Hydralazine (Local),190
+Esidrex,Hydrochlorothiazide (25mg),180,HCTZ (Local),90
+Regular Insulin, Insulin Regular, 1035, Actrapid HM, 856
+NPH Insulin, Insulin NPH, 975, Insulatard HM, 806
+Cozaar 50mg, Losartan, 2699, Xavor 50mg, 309
+Renitec 5mg, Enalapril, 203, Enal 5mg, 150
+HydroDIURIL 25mg, Hydrochlorothiazide, 50, Esidrex 25mg, 45
+Garamycin Injection, Gentamicin, 8.66, Gentic Injection, 7.5
+Diflucan 150mg, Fluconazole, 620, Fluzon 150mg, 220
+Vermox 100mg, Mebendazole, 50, Mebex 100mg, 40
+ORS Sachet, Oral Rehydration Salts (ORS), 55, Nimkol, 15
+Zincat Syrup, Zinc Sulfate, 140, Bizinc Syrup, 125
+Pantoloc 40mg, Pantoprazole, 850, Zopent 40mg, 407
+Piriton Syrup, Chlorpheniramine, 47.76, Allergex Syrup, 20
+Dilantin 100mg, Phenytoin, 110, Epitoin 100mg, 100
+Epilim 200mg, Sodium Valproate, 600, Epival 200mg, 460
+Eltroxin 50mcg, Levothyroxine, 300, Thyroxine 50mcg, 250
+Ferose Tablet, Ferrous Sulfate, 350, Sangobion, 200
+Caltrate 600mg, Calcium Carbonate, 2200, Osnate-D, 550
+Vitamin A Capsule, Vitamin A, 10, A-Max, 8
+Vitamin D Capsule, Vitamin D, 230, Indrop-D 200k, 250
